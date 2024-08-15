@@ -1,2 +1,2 @@
-# udemyClone
-Udemmy Clone
+# udemy-clone
+Udemy Clone
